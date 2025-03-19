@@ -1,0 +1,8 @@
+{
+  "AssembliesPath": ".",
+  "OutputPath": ".",
+  "Assemblies": [
+    "CoyoteTest.LibraryExample.dll",
+    "CoyoteTest.LibraryExample.Tests.dll"
+  ]
+}
